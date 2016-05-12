@@ -10,6 +10,7 @@
 	get_header(); 
 ?>
 	<?php fruitful_get_content_with_custom_sidebar('blogright'); ?>
+	#TEST COMMENT ##
 	
 <?php 
 	get_footer(); 
